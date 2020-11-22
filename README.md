@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Christina Ng 👩‍💻
 
 <!--
 **cmatson93/cmatson93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
