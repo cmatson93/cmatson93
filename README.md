@@ -1,4 +1,4 @@
-![Image of Yaktocat](./banner.png)
+![Image of Yaktocat](./GithubBanner.png)
 
 ## 🤖 My Work: 
 ### I spend most of my days building out tools to help drive the adoption of robotics and automation at SoftBank Robotics. When I'm not doing that I'm most likely looking for the next cool thing to learn and something fun to build. 
